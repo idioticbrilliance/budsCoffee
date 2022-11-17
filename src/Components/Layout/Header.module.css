@@ -30,7 +30,7 @@
 
 @media screen and (max-width: 1040px) {
   .header h1 {
-    font-size: 1.5rem;
+    font-size: 20px;
     white-space: nowrap;
     margin-right: 1rem;
   }
