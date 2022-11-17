@@ -61,20 +61,7 @@
 
 @media screen and (max-width: 1040px) {
   .button {
-    cursor: pointer;
-    font: inherit;
-    border: none;
-    background-color: #494949ac;
-    color: white;
-    padding: 0.75rem 3rem;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border-radius: 25px;
-    border: 2px solid rgb(181, 122, 4);
-    font-weight: bold;
-    height: 70%;
-    width: 70%;
     white-space: nowrap;
+    font-size: 12px;
   }
 }
