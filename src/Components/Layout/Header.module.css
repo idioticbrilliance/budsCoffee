@@ -27,3 +27,11 @@
   height: 100%;
   object-fit: cover;
 }
+
+@media screen and (max-width: 1040px) {
+  .header h1 {
+    font-size: 1.5rem;
+    white-space: nowrap;
+    margin-right: 1rem;
+  }
+}
